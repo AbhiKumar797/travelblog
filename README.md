@@ -6,8 +6,8 @@ A **multi-page, responsive travel blog** created as a course project to showcase
 
 ## 📸 Preview  
 > *(Add screenshots of your project here)*  
-![Travel Blog Homepage](./screenshots/homepage.png)  
-![Destination Page](./screenshots/destination.png)  
+![Travel Blog Homepage](./Preview.png)  
+  
 
 ---
 
